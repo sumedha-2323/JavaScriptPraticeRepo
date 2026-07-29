@@ -1,0 +1,19 @@
+const emp=[
+    {
+        id:101,
+        name:"john",
+        role:"tester"
+    },
+    {
+        id:102,
+        name:"peter",
+        role:"developer"
+    },
+    {
+        id:103,
+        name:"james",
+        role:"manager"
+    }
+]
+console.log(emp);
+console.log(emp[0].role);
